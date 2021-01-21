@@ -17,7 +17,7 @@ v0.1 - Liberação Inicial
 * HTML5
 * CSS3
 * JavaScript
-* Visual Studio Code
+* Visual Studio Code - Editor de código
 
 ## 📄 Licença
 
