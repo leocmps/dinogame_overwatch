@@ -3,6 +3,7 @@
 ### 📄 Descrição 
 
 Projeto realizado com apoio do professor Celso Henrique na plataforma Digital Innovation One.
+OBS: Para a trilha sonora do jogo funcionar tente utilizar o Microsoft Edge :)
 
 ### 🧑🏻‍💻 Desenvolvido por:  
 ```
